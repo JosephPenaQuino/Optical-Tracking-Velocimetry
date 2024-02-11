@@ -1,0 +1,5 @@
+build*
+output
+*.avi
+common/lk.txt
+common/params.txt
